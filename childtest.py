@@ -1,0 +1,2 @@
+#Beginner
+print("Go")
